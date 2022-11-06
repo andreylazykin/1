@@ -1,0 +1,26 @@
+C:\Users\Acer\source\repos\1-7\bin\Debug\netcoreapp3.1\1-7.exe
+C:\Users\Acer\source\repos\1-7\bin\Debug\netcoreapp3.1\1-7.deps.json
+C:\Users\Acer\source\repos\1-7\bin\Debug\netcoreapp3.1\1-7.runtimeconfig.json
+C:\Users\Acer\source\repos\1-7\bin\Debug\netcoreapp3.1\1-7.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\1-7\bin\Debug\netcoreapp3.1\1-7.dll
+C:\Users\Acer\source\repos\1-7\bin\Debug\netcoreapp3.1\1-7.pdb
+C:\Users\Acer\source\repos\1-7\obj\Debug\netcoreapp3.1\1-7.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\1-7\obj\Debug\netcoreapp3.1\1-7.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\1-7\obj\Debug\netcoreapp3.1\1-7.AssemblyInfo.cs
+C:\Users\Acer\source\repos\1-7\obj\Debug\netcoreapp3.1\1-7.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\1-7\obj\Debug\netcoreapp3.1\1-7.dll
+C:\Users\Acer\source\repos\1-7\obj\Debug\netcoreapp3.1\1-7.pdb
+C:\Users\Acer\source\repos\1-7\obj\Debug\netcoreapp3.1\1-7.genruntimeconfig.cache
+C:\Users\Acer\OneDrive\Рабочий стол\программы\1-7\bin\Debug\netcoreapp3.1\1-7.exe
+C:\Users\Acer\OneDrive\Рабочий стол\программы\1-7\bin\Debug\netcoreapp3.1\1-7.deps.json
+C:\Users\Acer\OneDrive\Рабочий стол\программы\1-7\bin\Debug\netcoreapp3.1\1-7.runtimeconfig.json
+C:\Users\Acer\OneDrive\Рабочий стол\программы\1-7\bin\Debug\netcoreapp3.1\1-7.runtimeconfig.dev.json
+C:\Users\Acer\OneDrive\Рабочий стол\программы\1-7\bin\Debug\netcoreapp3.1\1-7.dll
+C:\Users\Acer\OneDrive\Рабочий стол\программы\1-7\bin\Debug\netcoreapp3.1\1-7.pdb
+C:\Users\Acer\OneDrive\Рабочий стол\программы\1-7\obj\Debug\netcoreapp3.1\1-7.csprojAssemblyReference.cache
+C:\Users\Acer\OneDrive\Рабочий стол\программы\1-7\obj\Debug\netcoreapp3.1\1-7.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Рабочий стол\программы\1-7\obj\Debug\netcoreapp3.1\1-7.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Рабочий стол\программы\1-7\obj\Debug\netcoreapp3.1\1-7.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Рабочий стол\программы\1-7\obj\Debug\netcoreapp3.1\1-7.dll
+C:\Users\Acer\OneDrive\Рабочий стол\программы\1-7\obj\Debug\netcoreapp3.1\1-7.pdb
+C:\Users\Acer\OneDrive\Рабочий стол\программы\1-7\obj\Debug\netcoreapp3.1\1-7.genruntimeconfig.cache
